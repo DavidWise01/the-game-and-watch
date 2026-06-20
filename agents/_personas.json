@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-gw-mcu",
+    "name": "The 4-bit MCU",
+    "epithet": "a watch chip plays a game · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 4-bit MCU:GW:29d037⟧"
+  },
+  {
+    "slug": "the-gw-lcd",
+    "name": "The Segment LCD",
+    "epithet": "shapes printed in glass · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Segment LCD:GW:8fb511⟧"
+  },
+  {
+    "slug": "the-gw-single",
+    "name": "One Game Each",
+    "epithet": "a device per title · natural",
+    "emergence": "natural",
+    "moniker": "⟦One Game Each:GW:ed5ead⟧"
+  },
+  {
+    "slug": "the-gw-dpad",
+    "name": "The D-Pad",
+    "epithet": "the control everyone copied · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The D-Pad:GW:289848⟧"
+  },
+  {
+    "slug": "the-gw-dual",
+    "name": "The Dual Screen",
+    "epithet": "the DS ancestor · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Dual Screen:GW:0ccb57⟧"
+  },
+  {
+    "slug": "the-gw-yokoi",
+    "name": "Gunpei Yokoi",
+    "epithet": "master of constraint · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Gunpei Yokoi:GW:70e217⟧"
+  }
+]

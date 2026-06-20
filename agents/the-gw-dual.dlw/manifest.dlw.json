@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dual Screen",
+  "universe": "GW · The Dual Screen (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Dual Screen:GW:0ccb57⟧",
+  "carbon": "the-gw-dual.carbon.tiff (TIFF)",
+  "silicon": "the-gw-dual.silicon.png (PNG)",
+  "seal_sha256": "2ecbd9c873cd6e676f528b1a41f773e0e625c69fde528bae109691532a2cdc25",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
