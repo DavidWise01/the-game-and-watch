@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 873
+slug  : the-game-and-watch
+seal  : 695e8b7eae47cb5ecc4e939eefb9747879f21c77e67c8cd903aaf4e92152f9a3
+prev  : 53c73698c3625db2ac7343643bb184ff6fd11db1edd6acb74a66757d9cb36aeb
+link  : 3aee25dfeb8fe952692c8ffef55f37d25b38763d089a34e94a03b3df3252b2d8
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
